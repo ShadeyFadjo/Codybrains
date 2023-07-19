@@ -1,0 +1,3 @@
+-Veuillez configurer la base url qui se situe dans le fichier 'application/config/config.php' (mettez localhost:xx qui convient à votre serveur)(personnellement j'utilise le localhost:81).
+-le fichier sql se trouve à la racine de ce dossier .(bdd.sql) .
+-A vous de choisir et d'insérer les données de test des utilisateurs . 
